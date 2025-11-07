@@ -3,7 +3,7 @@
 ## 📘 Project Overview
 This project aims to detect **cancer** using **gene expression data** by applying **Principal Component Analysis (PCA)** for dimensionality reduction and **Random Forest Classifier** for classification.
 
-Gene expression datasets contain thousands of genetic features. PCA helps reduce the dimensionality while retaining the most important variance, and the Random Forest algorithm efficiently classifies samples as **cancerous** or **non-cancerous** based on these principal components.
+Gene expression datasets contain thousands of genetic features. PCA helps reduce the dimensionality while retaining the most important variance, and the Random Forest algorithm efficiently classifies samples as **Normal** or **Tumor** based on these principal components.
 
 ---
 
